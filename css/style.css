@@ -1,0 +1,33 @@
+
+.quest1{
+  display: flex;
+}
+
+.input1{
+  height: 20px;
+  position: absolute;
+  top: 105px;
+  left: 85px;
+  width: 180px;
+}
+
+.quest2{
+  display: flex;
+}
+
+.input2{
+  height: 20px;
+  position: absolute;
+  top: 160px;
+  left: 90px;
+  width: 180px;
+}
+
+.btn{
+  width: 100px;
+  height: 40px;
+}
+
+li{
+  list-style: none;
+}
